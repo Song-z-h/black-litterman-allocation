@@ -30,9 +30,9 @@ $W_t$ indicates for a given time $t$ in the year.
 
 ### Constraints
 
-The total wealth for a given time t should be the sum of all money invested → $\sum_{i=1}^N x_t = W_t$ .
+The total wealth for a given time t should be the sum of all money invested →  $\sum_{i=1}^N x_t = W_t$ .
 
-At time $t$ = 0, we have our constant $x_0$ to be invested,  → $\sum_{i=1}^N x_0 = W_0$ . 
+At time $t$ = 0, we have our constant $x_0$ to be invested,  →  $\sum_{i=1}^N x_0 = W_0$ . 
 
 At $t$ = 1, our money is the previously invested money multiplied by the returns for each asset → $ x_1 = x_0 \xi_1$ and $\sum_{i=1}^N x_1 = W_1$ should hold. 
 
